@@ -12,7 +12,7 @@
 </style>
 
 <body> 
-<?php
+    <h3>tren</h3><?php
      $dayso =array(
         8,9,16,9,7
     );

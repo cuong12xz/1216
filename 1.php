@@ -14,12 +14,9 @@
 </style>
 
 <body>
-<<<<<<< HEAD
 
     <p>xung đột xảy ra</p>
-=======
     <h3> hello </h3>
->>>>>>> 371d497361fca2ff36ff374fdb95195a7a59653a
     <?php
     $daymau= array(
         '#00aefd',

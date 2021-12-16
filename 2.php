@@ -12,7 +12,10 @@
 </style>
 
 <body> 
+    <h2> duoi</h2>
 <?php
+
+    
      $dayso =array(
         8,9,16,9,7
     );

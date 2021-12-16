@@ -15,6 +15,7 @@
 
 <body>
 
+    <p>xung đột xảy ra</p>
     <?php
     $daymau= array(
         '#00aefd',
